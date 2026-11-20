@@ -1,0 +1,83 @@
+﻿commit 5457d60e4f551bcb9c46ffb4dde7892801664b0b
+Author: ayushdwivedi1280 <ayushdwivedi3008@gmail.com>
+Date:   2026-11-20 11:13:29 +0530
+
+    docs: add README, walkthrough and screenshots
+
+commit 4cc2372a2ea79e5c83dfbb2e6c7866be844b2100
+Author: ayushdwivedi1280 <ayushdwivedi3008@gmail.com>
+Date:   2026-11-20 11:06:41 +0530
+
+    test: add analyzer, cache and API tests
+
+commit e7fb08286ac6dfd2976c3cda91de73e5f81e4655
+Author: ayushdwivedi1280 <ayushdwivedi3008@gmail.com>
+Date:   2026-11-20 11:04:21 +0530
+
+    feat: add dashboard with summary cards, filters and replies
+
+commit 5a74511541f971e069e09f55b32934e43535c8a7
+Author: ayushdwivedi1280 <ayushdwivedi3008@gmail.com>
+Date:   2026-11-20 11:02:59 +0530
+
+    feat: add FastAPI endpoints and pipeline with metrics
+
+commit da6d5924bbccef28ece7b6ded0fe2e8f824bb48b
+Author: ayushdwivedi1280 <ayushdwivedi3008@gmail.com>
+Date:   2026-11-20 11:02:07 +0530
+
+    feat: add top complaints/praises insights and on-click replies
+
+commit 1d49c518b3aaac84867ad8e24fcc183e7feb407e
+Author: ayushdwivedi1280 <ayushdwivedi3008@gmail.com>
+Date:   2026-11-20 11:01:21 +0530
+
+    feat: add batched analyzer with validation, one retry and analysis_failed
+
+commit e52340ca6235bf7338512622815ee7df1d9b985a
+Author: ayushdwivedi1280 <ayushdwivedi3008@gmail.com>
+Date:   2026-11-20 11:00:36 +0530
+
+    feat: add SQLite cache keyed by review text hash
+
+commit 94fea4d3414ea99b711215d954929a7d0fed2fdc
+Author: ayushdwivedi1280 <ayushdwivedi3008@gmail.com>
+Date:   2026-11-20 11:00:01 +0530
+
+    test: cover schema validation and backoff
+
+commit 84411ebba690962fb23959b22aa7fe366be8c854
+Author: ayushdwivedi1280 <ayushdwivedi3008@gmail.com>
+Date:   2026-11-20 10:59:05 +0530
+
+    feat: add LLM client with exponential backoff
+
+commit 452e270fbcacf47a6607f5e55cd641659fa2f8d8
+Author: ayushdwivedi1280 <ayushdwivedi3008@gmail.com>
+Date:   2026-11-20 10:58:02 +0530
+
+    feat: add injection-resistant prompts
+
+commit 481e190314fee6bd65f21b4447055d460638526b
+Author: ayushdwivedi1280 <ayushdwivedi3008@gmail.com>
+Date:   2026-11-20 10:57:22 +0530
+
+    feat: add Pydantic schema for review analysis
+
+commit 9a834f517aebdd22475eb322c651f97511df49c6
+Author: ayushdwivedi1280 <ayushdwivedi3008@gmail.com>
+Date:   2026-11-20 10:56:54 +0530
+
+    test: cover CSV cleaning on the sample dataset
+
+commit a2b141600e88c3885c1de6077450be099aec7840
+Author: ayushdwivedi1280 <ayushdwivedi3008@gmail.com>
+Date:   2026-11-20 10:50:11 +0530
+
+    feat: parse and clean reviews CSV (empty, duplicate, rating, HTML)
+
+commit 7801c19a7611eb550bcdddb21de825c63d413f2f
+Author: ayushdwivedi1280 <ayushdwivedi3008@gmail.com>
+Date:   2026-11-20 10:49:25 +0530
+
+    chore: scaffold project with requirements, .gitignore and .env.example
