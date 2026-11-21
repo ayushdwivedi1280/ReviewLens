@@ -1,4 +1,16 @@
-﻿commit 354e317b21b817f80d72ff6b94fa9e1e04e43368
+﻿commit 9045ff9a2503c7874ca57d5c76fe6304d5d175f2
+Author: ayushdwivedi1280 <ayushdwivedi3008@gmail.com>
+Date:   2026-11-21 15:13:10 +0530
+
+    docs: update clone URL in README with GitHub repository link
+
+commit 24f8c245ca012a7eb0f4bb1458a92a949f73d045
+Author: ayushdwivedi1280 <ayushdwivedi3008@gmail.com>
+Date:   2026-11-21 14:53:58 +0530
+
+    docs: update gitlog.txt with model fix
+
+commit 354e317b21b817f80d72ff6b94fa9e1e04e43368
 Author: ayushdwivedi1280 <ayushdwivedi3008@gmail.com>
 Date:   2026-11-21 14:53:48 +0530
 
