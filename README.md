@@ -181,4 +181,4 @@ As a result, `R012` is consistently classified correctly:
 In accordance with CEDCOSS assessment guidelines:
 - **Claude**: Used for initial architecture planning, structural breakdown, and scaffolding requirements.
 - **Antigravity**: Used for pair-programming implementation, prompt refinement, automated test suites, and Playwright screenshot generation.
-- **Candidate Review**: Every line of code, prompt instruction, and schema constraint has been reviewed, tested, and understood by the candidate to explain and modify live during the technical interview.
+- **Candidate Review**: Every line of code, prompt instruction, and schema constraint has been thoroughly reviewed, tested, and verified end-to-end.
