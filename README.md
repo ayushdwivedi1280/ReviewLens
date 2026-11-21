@@ -39,7 +39,7 @@ Built for the **CEDCOSS Technical Assessment (Associate Software Developer, Batc
 
 ### 2. Clone Repository & Setup Virtual Environment
 ```bash
-git clone <REPO_URL>
+git clone https://github.com/ayushdwivedi1280/ReviewLens.git
 cd reviewlens
 
 # Create virtual environment
