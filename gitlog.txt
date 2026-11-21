@@ -1,4 +1,16 @@
-﻿commit 5457d60e4f551bcb9c46ffb4dde7892801664b0b
+﻿commit 354e317b21b817f80d72ff6b94fa9e1e04e43368
+Author: ayushdwivedi1280 <ayushdwivedi3008@gmail.com>
+Date:   2026-11-21 14:53:48 +0530
+
+    fix: update groq default model to openai/gpt-oss-120b
+
+commit 935246ff09856e292b99cd701a4653f7f0bea927
+Author: ayushdwivedi1280 <ayushdwivedi3008@gmail.com>
+Date:   2026-11-20 11:14:03 +0530
+
+    docs: add gitlog.txt for CEDCOSS submission
+
+commit 5457d60e4f551bcb9c46ffb4dde7892801664b0b
 Author: ayushdwivedi1280 <ayushdwivedi3008@gmail.com>
 Date:   2026-11-20 11:13:29 +0530
 
