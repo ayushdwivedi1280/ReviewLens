@@ -30,7 +30,7 @@ PROVIDERS: Dict[str, ProviderConfig] = {
     "groq": ProviderConfig(
         name="groq",
         base_url="https://api.groq.com/openai/v1",
-        default_model="llama-3.3-70b-versatile",
+        default_model="openai/gpt-oss-120b",
         api_key_env="GROQ_API_KEY",
     ),
     "gemini": ProviderConfig(
