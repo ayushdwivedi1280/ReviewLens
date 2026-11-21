@@ -1,4 +1,16 @@
-﻿commit 9045ff9a2503c7874ca57d5c76fe6304d5d175f2
+﻿commit e38a0400dbff95c842aa542f45623ddbc3f46d71
+Author: ayushdwivedi1280 <ayushdwivedi3008@gmail.com>
+Date:   2026-11-21 15:48:25 +0530
+
+    docs: refine walkthrough and documentation into technical architecture guide
+
+commit 66cdc20239a8023b7ce5a81a3c5dad55d27cb02b
+Author: ayushdwivedi1280 <ayushdwivedi3008@gmail.com>
+Date:   2026-11-21 15:13:11 +0530
+
+    docs: update gitlog.txt with repository URL commit
+
+commit 9045ff9a2503c7874ca57d5c76fe6304d5d175f2
 Author: ayushdwivedi1280 <ayushdwivedi3008@gmail.com>
 Date:   2026-11-21 15:13:10 +0530
 
