@@ -1,4 +1,16 @@
-﻿commit e38a0400dbff95c842aa542f45623ddbc3f46d71
+﻿commit 6f7ccd6ca6893e91087ad5c2459aee7acdc45a05
+Author: ayushdwivedi1280 <ayushdwivedi3008@gmail.com>
+Date:   2026-11-26 13:22:54 +0530
+
+    feat: add app.py entry point to run server via python app.py
+
+commit f190e87667917ed7113a76424d4c52d7d54238d1
+Author: ayushdwivedi1280 <ayushdwivedi3008@gmail.com>
+Date:   2026-11-21 15:48:25 +0530
+
+    docs: update gitlog.txt with refined documentation
+
+commit e38a0400dbff95c842aa542f45623ddbc3f46d71
 Author: ayushdwivedi1280 <ayushdwivedi3008@gmail.com>
 Date:   2026-11-21 15:48:25 +0530
 
