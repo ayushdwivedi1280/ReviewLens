@@ -69,8 +69,9 @@ GROQ_API_KEY=gsk_your_groq_api_key_here
 
 ### 4. Run the Application
 ```bash
-uvicorn app.main:app --reload --port 8000
+python app.py
 ```
+*(Alternatively: `uvicorn app.main:app --reload --port 8000`)*
 Open your browser and navigate to:
 **`http://127.0.0.1:8000`**
 
